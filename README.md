@@ -1,19 +1,37 @@
 # こんにちは 👋 バックエンドエンジニアです
 
 ## 🚀 自己紹介
-- 💼 バックエンドエンジニア | **Python歴5年** | データベース設計・API開発が得意
-- 🤖 **生成AI・Agent開発**に注力 | 日常的に**Claude Code**を活用した開発を実践
-- 🎯 **[スロマップAI](https://slo-map.com)** を開発中 - Next.js + Supabase で構築したAI活用型プラットフォーム
-- 📈 **Lighthouse 95+/100** のパフォーマンススコアを達成
-- 🔧 データドリブン開発・パフォーマンス最適化・AI統合に情熱を注いでいます
+
+**「技術とグロースの両方を理解するエンジニア」**
+
+### 💼 バックエンドエンジニア（Python歴5年 | 転職活動中）
+- **AWS Bedrock API開発**、Django/Flask/FastAPI での実務経験
+- **1000万行超のデータ分析**、7000万レコード規模のDB設計・最適化
+- 要件定義〜運用まで一貫して担当できるフルサイクル開発経験
+
+### 🤖 生成AI × 開発生産性のスペシャリスト
+- **Claude Code MAX** + Cursor で実務開発中（**開発速度10倍を実現**）
+- RAGチャットボット、AI構成ツールの実装経験
+- Agent開発・Mastraフレームワークに挑戦中
+
+### 📈 プロダクトグロースの実績（エンジニアとしての差別化要素）
+- **YouTube**: 登録者数を50万→168万人に成長（パチンコ業界No.1チャンネル）
+- **ブログ運営**: 月間20万PV達成
+- **[スロマップAI](https://slo-map.com)**: 個人開発でGoogle AdSense収益化達成
+- **業務効率化**: 年間3000時間削減（RPA/自動化ツール開発）
+
+**→ ハードスキル（技術）だけでなく、ソフトスキル（サービスを伸ばす感覚）を持つ稀有なエンジニアです**
 
 ## 🛠️ 技術スタック
 
 ### バックエンド・データベース
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### AI・開発ツール
 ![Claude](https://img.shields.io/badge/Claude_Code-8E75B2?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -26,8 +44,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### プラットフォーム
+### クラウド・プラットフォーム
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -57,10 +77,10 @@
 
 </div>
 
-## 🌟 注目プロジェクト
+## 🌟 注目プロジェクト・実績
 
-### [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
-> Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム
+### 🚀 [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
+> Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム（**Google AdSense収益化達成**）
 
 **技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS
 
@@ -78,6 +98,25 @@
 - N+1問題解消（93%削減）
 - Supabaseスキーマからの自動TypeScript型生成
 - AI Agent開発による自動化（Slug品質管理、エラー分析等）
+
+---
+
+### 💼 実務での主な実績（2016-2024 | 株式会社ZIZAI）
+
+#### 🤖 AI・自動化開発
+- **AWS Bedrock API開発**（Django実装、RAGチャットボット構築）
+- **業務効率化ツール開発**: 年間3000時間削減（RPA、自動画像生成、記事作成自動化）
+- **REST API開発**（Lambda + API Gateway、画像生成機能）
+
+#### 📊 データ分析・DB設計
+- **大規模データ分析**: 1000万行以上のデータ集計・加工・分析
+- **レコメンド機能開発**: 7000万レコードのDB設計、記述統計によるルールベースアルゴリズム（PoCまで）
+- **データスクレイピング**: Selenium/Appium を用いた4サイト+ネイティブアプリからのデータ収集
+
+#### 📈 プロダクトグロース実績
+- **YouTube運営**: 登録者数50万→168万人に成長（パチンコ業界No.1メディアに育成）
+- **ブログ運営**: 月間20万PVのメディア運営（SEO、コンテンツ戦略）
+- **SNSマーケティング**: Twitter自動化ツール開発（30人の手作業を完全自動化）
 
 ## 📫 お問い合わせ
 
