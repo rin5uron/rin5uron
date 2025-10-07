@@ -1,4 +1,4 @@
-# プログラミング学習中の見習いエンジニアです！
+
 
 ## 🚀 自己紹介
 
@@ -10,7 +10,7 @@
 
 **「毎日少しずつでも成長して、いつかはプロダクトを作れるエンジニアになりたい！」**
 
-### 🌱 プログラミング学習中の見習いエンジニア
+### 🌱 プログラミング学習中の見習いエンジニアです
 
 **学習歴（2025年3月〜 | 現在進行中）**:
 - **Web開発**: HTML、CSS、JavaScript、Next.jsを学習中
@@ -46,12 +46,14 @@
 
 **技術スタック**: HTML, CSS, JavaScript
 
+<br><br><br>
 
 **その他のプロジェクト**:
 - **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
 - **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した学習管理
 - **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
 
+<br><br><br>
 
 ## 📚 学習記録
 
@@ -66,7 +68,7 @@
 - **データベース学習**: SQL実践とデータベース設計
 - **セキュリティ学習**: 基本的なセキュリティ対策
 
-
+<br><br><br>
 
 ## 🛠️ 学習中の技術スタック
 
@@ -89,13 +91,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+<br><br><br>
+
 ## 📊 GitHub統計
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja)
-
-![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="48%" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="48%" />
 
 <sub>※ 学習中の記録です。毎日少しずつ成長中 🚀</sub>
 
@@ -105,7 +108,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,6 +119,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja)](https://git.io/streak-stats)
 
 </div>
+
+<br><br><br>
 
 ---
 
