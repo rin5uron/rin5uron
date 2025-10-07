@@ -4,14 +4,17 @@
 
 **「技術とグロースの両方を理解するエンジニア」**
 
-### 💼 バックエンドエンジニア（Python歴5年 | 転職活動中 | テストは苦手です）
+### 🤖 生成AI × 開発生産性のスペシャリストを目指しているジェネラリスト寄りのエンジニア
+
+**職務経歴（2020-2024 | Python歴5年 | 転職活動中）**:
 - **AWS Bedrock API開発**、Django/Flask/FastAPI での実務経験
 - **1000万行超のデータ分析**、7000万レコード規模のDB設計・最適化
 - 要件定義〜運用まで一貫して担当できるフルサイクル開発経験
-- **最近の興味**: TypeScript × Next.js × Supabase × Vercelに夢中、モダンフロントエンド開発を追求中
+- **テストは苦手です**
 
-### 🤖 生成AI × 開発生産性のスペシャリストを目指しているジェネラリスト寄りのエンジニア
+**現在取り組んでいること**:
 - **Claude Code MAX ✖︎20** + Cursor で実務開発中
+- TypeScript × Next.js × Supabase × Vercelに夢中、モダンフロントエンド開発を追求中
 - TypeScript製の生成AIフレームワーク「Mastra」でRAG・マルチエージェントシステム構築に挑戦中
 - MCP（Chrome DevTools、Serena、Supabase、IDE、GA4、Search Console）でAI能力を拡張
 
