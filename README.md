@@ -41,7 +41,10 @@
   - Sentry統合エラー分析Agent開発
 - **実務プロジェクト**: Django + AWS Bedrock APIをClaude Codeで開発
   - RAGチャットボット実装
+  - AI文章校正ツール開発
   - AI構成ツール開発
+  - インフラ: AWS EC2
+  - フロントエンド: JavaScript + Tailwind CSS
 
 ### 開発哲学
 > 「AIは単なる補助ツールではなく、ペアプログラミングのパートナー」
