@@ -19,9 +19,11 @@
 **学習歴（2025年3月〜 | 現在進行中）**
 - **Web開発**     : HTML、CSS、JavaScript、Next.jsを学習中
 - **IT知識**      : ITパスポート取得済み、現在は基本情報技術者試験取得を目指しています
+<br>
 
 **制作物案件経験**
 - Webサイト制作やデザイン制作の受注経験あり
+<br>
 
 **学習スタイル**
 - **日々の記録**: [work_log](https://github.com/rin5uron/work_log)で学習ログ記録や振り返りをしながら、目指すエンジニア像を模索中
@@ -51,7 +53,7 @@
 
 <br><br><br>
 
-**その他のプロジェクト**:
+**その他のプロジェクト**
 - **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
 - **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した複数人学習システムの構築
 - **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
@@ -62,10 +64,10 @@
 
 ## 📚 学習記録
 
-> 📌 **詳細な学習記録は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)にて公開**  
-> 📝 **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中**
+> **詳細な学習記録は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)にて公開**  
+> **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中**
 
-**学習内容**:
+**学習内容**（学習成果は一部抜粋）
 - **JavaScript体系学習**
     -  基礎からオブジェクト指向プログラミングまで 
     - [身の回りのものをオブジェクトとして認識する](https://20250702osyaberi.vercel.app/)
@@ -81,10 +83,10 @@
     - [お気に入りのアイスの魅力を伝えるページを作成！](https://haagen-macadamia-seo.vercel.app/)
 - **データベース学習**
     - SQL実践とデータベース設計
-    - [実際にデータベースを作成して理解を深めて見た](https://github.com/rin5uron/study_web2/tree/main/practice/db)
+    - [実際にデータベースを作成して理解を深める](https://github.com/rin5uron/study_web2/tree/main/practice/db)
 - **セキュリティ学習**
     - 基本的なセキュリティ対策
-    - [ログイン機能実装してみた](https://nextjs-practice.vercel.app/signin)
+    - [ログイン機能実装](https://nextjs-practice.vercel.app/signin)
 
 <br><br><br>
 
@@ -94,36 +96,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### フロントエンド・バックエンド
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 開発ツール・クラウド
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
+| **技術カテゴリ** | **使用技術** |
+|:---:|:---|
+| **フロントエンド** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+| **バックエンド** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **開発ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **クラウド・デプロイ** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
 
@@ -135,9 +113,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" height="195" />
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" height="195" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
 
 
 
@@ -159,7 +137,13 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rin5uron)
+[![IT用語辞典](https://img.shields.io/badge/IT用語辞典-0066CC?style=for-the-badge&logo=book&logoColor=white)](https://itwords.jp)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rin5uron&color=blueviolet&style=flat-square)
+
 
 
 </div>
