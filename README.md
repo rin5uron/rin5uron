@@ -81,14 +81,15 @@
 
 ### 🚀 [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
 > Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム（**Google AdSense収益化達成**）
+> **Pythonバックエンド**でデータパイプライン・スクレイピング基盤を構築
 
-**技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS
+**技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Python, Tailwind CSS
 
 **主な成果**:
 - 🎯 **Lighthouse Score**: 95+/100（モバイル・デスクトップ）
 - 📈 **LCP改善**: 68%高速化（3.8秒 → 1.2秒）
 - 🗄️ **データベース最適化**: 99%クエリ速度向上（5,200ms → 50ms）
-- 🔍 **SEO成功**: Google Search Console インデックス登録率98.7%
+- 🔍 **SEO対策**: Google Search Console インデックス登録率98.7%、構造化データ実装
 - ✨ **コード品質**: TypeScript strict mode、ESLintエラー0件
 
 **技術的ハイライト**:
@@ -118,14 +119,11 @@
 - **ブログ運営**: 月間20万PVのメディア運営（SEO、コンテンツ戦略）
 - **SNSマーケティング**: Twitter自動化ツール開発（30人の手作業を完全自動化）
 
-## 📫 お問い合わせ
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-slo--map.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slo-map.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dataanalytics2020-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataanalytics2020)
-
 ---
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-slo--map.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slo-map.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dataanalytics2020&color=blueviolet&style=flat-square)
 
