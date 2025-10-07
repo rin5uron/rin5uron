@@ -159,6 +159,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dataanalytics2020&color=blueviolet&style=flat-square)
 
-*一つ一つのコミットで、未来を築く* 🚀
+*「迷ったら困難な道を選ぶ」― 岡本太郎*
 
 </div>
