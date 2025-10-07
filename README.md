@@ -52,7 +52,7 @@
 
 **その他のプロジェクト**:
 - **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
-- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した学習管理
+- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した複数人学習システムの構築
 - **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
 
 <br><br><br>
@@ -65,12 +65,25 @@
 > 📝 **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中**
 
 **学習内容**:
-- **JavaScript体系学習**: 基礎からオブジェクト指向プログラミングまで → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
-- **Next.js学習**: モダンなWebアプリケーション開発 → [nextjs_practice](https://github.com/rin5uron/nextjs_practice)
-- **CLI操作**: コマンドライン操作と脱マウス実践 → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
-- **SEO実践**: Webサイトの検索エンジン最適化 → [itwords.jp](https://itwords.jp)
-- **データベース学習**: SQL実践とデータベース設計 → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
-- **セキュリティ学習**: 基本的なセキュリティ対策 → [it-terms-lab](https://github.com/rin5uron/it-terms-lab)
+- **JavaScript体系学習**
+    -  基礎からオブジェクト指向プログラミングまで 
+    - [身の回りのものをオブジェクトとして認識する](https://20250702osyaberi.vercel.app/)
+    - [身近な例でクラス＆インスタンスを考える](https://objectclass30.vercel.app/)
+- **Next.js学習**
+    - 実務での開発を見据えた学習
+    - [nextjs_practice](https://github.com/rin5uron/nextjs_practice)
+- **CLI操作**
+    - コマンドライン操作と脱マウス実践
+    - [CLIを使いこなせるエンジニアに挑戦中！](https://basiccli.vercel.app/)
+- **SEO実践**
+    - Webサイトの検索エンジン最適化
+    - [お気に入りのアイスの魅力を伝えるページを作成！](https://haagen-macadamia-seo.vercel.app/)
+- **データベース学習**
+    - SQL実践とデータベース設計
+    - [実際にデータベースを作成して理解を深めて見た](https://github.com/rin5uron/study_web2/tree/main/practice/db)
+- **セキュリティ学習**
+    - 基本的なセキュリティ対策
+    - [ログイン機能実装してみた](https://nextjs-practice.vercel.app/signin)
 
 <br><br><br>
 
