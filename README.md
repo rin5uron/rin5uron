@@ -1,30 +1,30 @@
-# Hi there 👋 I'm a Full-Stack Developer
+# こんにちは 👋 フルスタック開発者です
 
-## 🚀 About Me
-- 💼 Web Developer specializing in **Next.js & Supabase**
-- 🎯 Building **[スロマップAI](https://slo-map.com)** - AI-powered pachinko/slot store information platform
-- 📈 Achieved **Lighthouse 95+/100** performance score
-- 🔧 Passionate about performance optimization and data-driven development
+## 🚀 自己紹介
+- 💼 **Next.js & Supabase** を専門とするWeb開発者
+- 🎯 **[スロマップAI](https://slo-map.com)** を開発中 - AI活用型パチンコ・スロット店舗情報プラットフォーム
+- 📈 **Lighthouse 95+/100** のパフォーマンススコアを達成
+- 🔧 パフォーマンス最適化とデータドリブン開発に情熱を注いでいます
 
-## 🛠️ Tech Stack
+## 🛠️ 技術スタック
 
-### Frontend
+### フロントエンド
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### バックエンド・データベース
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Tools & Platforms
+### ツール・プラットフォーム
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub統計
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHubトロフィー
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 連続コミット記録
 
 <div align="center">
 
@@ -50,27 +50,27 @@
 
 </div>
 
-## 🌟 Featured Project
+## 🌟 注目プロジェクト
 
-### [スロマップAI](https://slo-map.com) | [Portfolio Repo](https://github.com/dataanalytics2020/slomap-ai-portfolio)
-> Next.js + Supabase pachinko/slot store information platform
+### [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
+> Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム
 
-**Tech Stack**: Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS
+**技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Tailwind CSS
 
-**Key Achievements**:
-- 🎯 **Lighthouse Score**: 95+/100 (Mobile & Desktop)
-- 📈 **LCP Improvement**: 68% faster (3.8s → 1.2s)
-- 🗄️ **Database Optimization**: 99% query speed improvement (5,200ms → 50ms)
-- 🔍 **SEO Success**: 98.7% indexing rate on Google Search Console
-- ✨ **Code Quality**: TypeScript strict mode, 0 ESLint errors
+**主な成果**:
+- 🎯 **Lighthouse Score**: 95+/100（モバイル・デスクトップ）
+- 📈 **LCP改善**: 68%高速化（3.8秒 → 1.2秒）
+- 🗄️ **データベース最適化**: 99%クエリ速度向上（5,200ms → 50ms）
+- 🔍 **SEO成功**: Google Search Console インデックス登録率98.7%
+- ✨ **コード品質**: TypeScript strict mode、ESLintエラー0件
 
-**Technical Highlights**:
-- Server Components + ISR with 92% cache hit rate
-- Row Level Security (RLS) for database protection
-- N+1 query elimination (93% reduction)
-- Automated TypeScript type generation from Supabase schema
+**技術的ハイライト**:
+- Server Components + ISR でキャッシュヒット率92%達成
+- Row Level Security (RLS) によるデータベース保護
+- N+1問題解消（93%削減）
+- Supabaseスキーマからの自動TypeScript型生成
 
-## 📫 How to reach me
+## 📫 お問い合わせ
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-slo--map.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slo-map.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dataanalytics2020-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataanalytics2020)
@@ -81,6 +81,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dataanalytics2020&color=blueviolet&style=flat-square)
 
-*Building the future, one commit at a time* 🚀
+*一つ一つのコミットで、未来を築く* 🚀
 
 </div>
