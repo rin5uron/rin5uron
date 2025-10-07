@@ -2,13 +2,14 @@
 
 # ABOUT ME
 
-> **プログラミング学習 💻 と資格取得 📚 とテニス 🎾 が好きな、プログラミング学習を通して日々成長を楽しむ見習いエンジニアです 🚀**
+> **表の顔は果物 🍎 とハーブ🌿をこよなく愛する栄養士。<br>裏の顔はプログラミング学習を通して日々成長を楽しむ見習いエンジニア🚀**<br><br>
+> **趣味：資格取得 📚 　得意なこと：のんびりすること♨️**
 
 - **プログラミング学習**: 2025年3月から本格的に開始、現在学習中
-- **資格取得**: 管理栄養士・栄養士・FP2級、色彩検定1級、食生活アドバイザー・スパイスハーブ検定・FP2級・ITパスポート
-- **テニス**: 週末は必ずコートで汗を流しています
+- **資格取得**: 管理栄養士、色彩検定1級、食生活アドバイザー、スパイスハーブ検定、FP2級、ITパスポート
 
-**「プログラミングを通して私の好きやときめきを形にできるエンジニアになりたい！」**
+
+<sub><sub>**「プログラミングを通して私の好きやときめきを形にできるエンジニアを目指しています！」**</sub><sub>
 <br><br><br>
 ---
 
@@ -85,19 +86,36 @@
 
 <div align="center">
 
-| **フロントエンド** | **バックエンド・データベース** |
-|:---:|:---:|
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+<table>
+<tr>
+<td align="center" width="50%">
 
-| **開発ツール** | **クラウド・デプロイ** |
-|:---:|:---:|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+### フロントエンド・バックエンド
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 開発ツール・クラウド
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -110,7 +128,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" /
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" />
 <img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" />
 
 
