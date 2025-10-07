@@ -8,6 +8,7 @@
 - **AWS Bedrock API開発**、Django/Flask/FastAPI での実務経験
 - **1000万行超のデータ分析**、7000万レコード規模のDB設計・最適化
 - 要件定義〜運用まで一貫して担当できるフルサイクル開発経験
+- **最近の興味**: TypeScript × Next.js × Vercelに夢中、モダンフロントエンド開発を追求中
 
 ### 🤖 生成AI × 開発生産性のスペシャリスト
 - **Claude Code MAX** + Cursor で実務開発中（**開発速度10倍を実現**）
@@ -91,6 +92,8 @@
 ![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=dataanalytics2020&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja)
 
 ![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=dataanalytics2020&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
+
+<sub>※ 全期間の累積データです。最近は TypeScript × Next.js × Vercel で開発中 🚀</sub>
 
 </div>
 
