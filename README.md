@@ -117,7 +117,7 @@
 
 ![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=dataanalytics2020&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
 
-<sub>※ 全期間の累積データです。最近は TypeScript × Next.js × Vercel で開発中 🚀</sub>
+<sub>※ 全期間の累積データです。最近は TypeScript × Next.js × Supabase × Vercel で開発中 🚀</sub>
 
 </div>
 
