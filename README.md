@@ -29,9 +29,9 @@
 ## 🤖 Claude Code開発スタイル
 
 ### 開発環境
-- **Claude Code MAX v2.0.5** + **Sonnet 4.5** で実務開発中
+- **変遷**: Claude 3.5 Sonnet + Cursorチャットから始まり、最近は**Claude Code MAX v2.0.5 + Sonnet 4.5**で安定
 - **開発速度10倍**を実現（体感値、要件定義〜実装〜テストまで）
-- Cursor（1.5年経験）と併用したハイブリッド開発
+- Cursor（1.5年経験）と併用したハイブリッド開発も継続中
 
 ### 使用中のMCP (Model Context Protocol)
 - **Chrome DevTools MCP**: ブラウザ自動操作、スクリーンショット取得
