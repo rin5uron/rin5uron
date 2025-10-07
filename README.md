@@ -119,9 +119,13 @@
 
 <div align="center">
 
-![スロマップAI - デスクトップ表示](https://raw.githubusercontent.com/dataanalytics2020/slomap-ai-portfolio/main/SCREENSHOTS/desktop-view.png)
+![スロマップAI - トップ画面](./images/top_screen.png)
 
-<sub>デスクトップ表示 - Glassmorphismデザインシステム採用</sub>
+<sub>トップ画面 - Next.js 15 + Supabase で構築</sub>
+
+![スロマップAI - マップ表示](./images/map_image.png)
+
+<sub>マップ表示 - 店舗検索・フィルタリング機能</sub>
 
 </div>
 
