@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=dataanalytics2020&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=dataanalytics2020&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja)
 
-![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=dataanalytics2020&layout=compact&theme=onedark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=dataanalytics2020&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
 
 </div>
 
