@@ -38,6 +38,7 @@
 - **Serena MCP**: コードベース解析、シンボル検索、リファクタリング支援
 - **Supabase MCP**: データベース操作、スキーマ管理、クエリ実行
 - **IDE MCP**: VS Code統合、診断情報取得
+- **GA4 & Search Console MCP**: 日々のSEO対策・アクセス解析に活用
 
 ### AI駆動開発の実績
 - **スロマップAI**: Claude Codeで92%の時間削減を達成
