@@ -11,7 +11,7 @@
 - **最近の興味**: TypeScript × Next.js × Vercelに夢中、モダンフロントエンド開発を追求中
 
 ### 🤖 生成AI × 開発生産性のスペシャリストを目指しているジェネラリスト寄りのエンジニア
-- **Claude Code MAX** + Cursor で実務開発中（**開発速度10倍を実現**）
+- **Claude Code MAX ✖︎20** + Cursor で実務開発中（**開発速度10倍を実現**）
 - RAGチャットボット、AI構成ツールの実装経験
 - **AIエージェント開発**: TypeScript製の生成AIフレームワーク「Mastra」でRAG・マルチエージェントシステム構築に個人開発プロジェクトで挑戦中
 
@@ -29,7 +29,7 @@
 ## 🤖 Claude Code開発スタイル
 
 ### 開発環境
-- **変遷**: Claude 3.5 Sonnet + Cursorチャットから始まり、最近は**Claude Code MAX v2.0.5 + Sonnet 4.5**で安定
+- **変遷**: Claude 3.5 Sonnet + Cursorチャットから始まり、最近は**Claude Code MAX ✖︎20 v2.0.5 + Sonnet 4.5**で安定
 - **開発速度10倍**を実現（体感値、要件定義〜実装〜テストまで）
 - Cursor（1.5年経験）と併用したハイブリッド開発も継続中
 
@@ -60,7 +60,7 @@
 1人のエンジニアが生み出せる価値を飛躍的に高め、**チーム全体の開発効率を最大化する**というアプローチです。
 
 **具体的な取り組み**:
-- **Claude Code MAX v2.0.5 + Sonnet 4.5** で実務開発（開発速度10倍）
+- **Claude Code MAX ✖︎20 v2.0.5 + Sonnet 4.5** で実務開発（開発速度10倍）
 - **Git worktreeで複数ブランチを並行開発**: Claude Codeセッションを複数立ち上げ、同時に異なる機能を開発
 - **MCP（Chrome DevTools、Serena、IDE）** でAIの能力を拡張
 - **Agent Bot開発**: GitHub Actions + Gemini を使った自動化Agent Bot開発
