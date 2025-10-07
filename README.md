@@ -62,7 +62,7 @@
 - **Claude Code MAX v2.0.5 + Sonnet 4.5** で実務開発（開発速度10倍）
 - **Git worktreeで複数ブランチを並行開発**: Claude Codeセッションを複数立ち上げ、同時に異なる機能を開発
 - **MCP（Chrome DevTools、Serena、IDE）** でAIの能力を拡張
-- **Agent開発**で自律的なタスク実行を実現
+- **Agent Bot開発**: GitHub Actions + Gemini を使った自動化Agent Bot開発
 
 **実績**:
 - スロマップAI: 1人で要件定義〜実装〜運用まで完遂、92%の開発時間削減
