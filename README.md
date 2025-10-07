@@ -1,106 +1,81 @@
-# 採用担当者の方へ。お読みいただきありがとうございます！
+# プログラミング学習中の見習いエンジニアです！
 
 ## 🚀 自己紹介
 
-**個人開発 💻 とおしゃべり ☕ とテニス 🎾 が好きな、コードを書くよりプロダクトがグロースすることに喜びを感じるエンジニアです 🚀**
+**プログラミング学習 💻 とおしゃべり ☕ とテニス 🎾 が好きな、日々成長を楽しむ見習いエンジニアです 🚀**
 
-- **個人開発**: 2025年7月より再挑戦中、Next.js × Supabase × Claude Code MAX ✖︎20プランでどこまでできるか挑戦中
-- **おしゃべり**: 無限にできます（技術談義、プロダクト戦略、雑談なんでも）
-- **テニス**: 歴20年、週末は必ずコートに
+- **プログラミング学習**: 2024年から本格的に開始、現在101日目以降の学習中
+- **おしゃべり**: 無限にできます（技術談義、学習の悩み、雑談なんでも）
+- **テニス**: 週末は必ずコートで汗を流しています
 
-**「生成AI技術とグロースの両方を理解してどこまでできるかを挑戦して楽しむエンジニアを目指しています」**
+**「毎日少しずつでも成長して、いつかはプロダクトを作れるエンジニアになりたい！」**
 
-### 🤖 生成AI × 開発生産性のスペシャリストを目指しているジェネラリスト寄りのエンジニア
+### 🌱 プログラミング学習中の見習いエンジニア
 
-**職務経歴（2020-2024 | Python歴5年 | 転職活動中）**:
-- **AWS Bedrock API開発**、Django/Flask/FastAPI での実務経験
-- **1000万行超のデータ分析**、7000万レコード規模のDB設計・最適化
-- 要件定義〜運用まで一貫して担当できるフルサイクル開発経験
-- **テストは苦手です**
+**学習歴（2024年〜 | 現在進行中）**:
+- **プログラミング学習**: 101日目以降、体系的に学習中
+- **Web開発**: HTML、CSS、JavaScript、Next.jsを学習中
+- **データベース**: SQL基礎、データベース設計を学習中
+- **セキュリティ**: 基本的なセキュリティ対策を学習中
+- **目標**: 基本情報技術者試験の取得を目指しています
 
 **現在取り組んでいること**:
-- **Claude Code MAX ✖︎20** + Cursor で実務開発中
-- TypeScript × Next.js × Supabase × Vercelに夢中、モダンフロントエンド開発を追求中
-- TypeScript製の生成AIフレームワーク「Mastra」でRAG・マルチエージェントシステム構築に挑戦中
-- MCP（Chrome DevTools、Serena、Supabase、IDE、GA4、Search Console）でAI能力を拡張
+- **JavaScript体系学習**: 基礎からオブジェクト指向プログラミングまで
+- **Next.js学習**: モダンなWebアプリケーション開発を学習中
+- **CLI操作**: コマンドライン操作と脱マウス実践トレーニング
+- **SEO実践**: Webサイトの検索エンジン最適化を学習中
+- **データベース学習**: SQL実践とデータベース設計の基礎
 
-### 📈 プロダクトグロースの実績（エンジニアとしての差別化要素）
+### 📚 学習プロジェクト・実績
 
-**個人開発**:
-- **[スロマップAI](https://slo-map.com)**: Google AdSense収益化達成
-- **[個人ブログ](https://slotana777.com)**: 月間20万PV（Python自動化で記事作成・投稿を完全自動化）
+**個人学習プロジェクト**:
+- **[IT用語実践学習サイト](https://github.com/rin5uron/it-terms-lab)**: IT用語を実践的に学ぶ体験デモ付き学習サイト
+  - フールプルーフ体験ページ
+  - SQLインジェクション・XSS体験ページ
+  - n進数と基数変換学習ページ
+  - シフト演算学習ページ
+- **[IT用語サイト運営](https://github.com/rin5uron/itwords)**: 学んだIT用語を用いたWebサイトの企画・制作・運営
+- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した学習進捗管理
+- **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 新しい技術やアイデアを気軽に試す実験スペース
 
-**実務（2016-2024 | 株式会社ZIZAI）**:
-- **YouTube**: 登録者数0→168万人（パチンコ業界No.1チャンネル）
-- **業務効率化**: 年間3000時間削減（RPA/自動化ツール開発）
+**学習の特徴**:
+- **体系的学習**: 基礎から応用まで段階的に学習
+- **実践重視**: 学んだことを実際にプロジェクトで活用
+- **記録管理**: GitHub IssuesやREADMEで学習進捗を可視化
+- **継続学習**: 毎日少しずつでも学習を継続
 
-## 🤖 Claude Code開発スタイル
-
-### 開発環境・ツール
-- **Claude Code MAX ✖︎20 v2.0.5 + Sonnet 4.5** で実務開発（**開発速度10倍を実現**）
-- Cursor（1.5年経験）との併用でハイブリッド開発
-- **Git worktree**で複数ブランチを並行開発（複数Claude Codeセッションを同時起動）
-
-### 使用中のMCP (Model Context Protocol)
-- **Chrome DevTools**: ブラウザ自動操作、スクリーンショット取得
-- **Serena**: コードベース解析、シンボル検索、リファクタリング支援
-- **Supabase**: データベース操作、スキーマ管理、クエリ実行
-- **IDE**: VS Code統合、診断情報取得
-- **GA4 & Search Console**: 日々のSEO対策・アクセス解析に活用
-
-### 開発実績・哲学
-> 「AI駆動開発でチームの生産性を最大化する」
-
-**主な実績**:
-- **スロマップAI**: 92%の開発時間削減（Issue #392解決、Slug品質管理Agent、Sentry統合等）
-- **実務プロジェクト**: Django + AWS Bedrock APIでRAGチャットボット・AI文章校正ツール開発
-- **自動化Agent Bot**: GitHub Actions + Gemini による自動化システム構築
-
-高市早苗氏が「馬車馬の如く働く」と宣言した2025年、私は生成AIという強力なパートナーに馬車馬の如く働いてもらい、自分自身も技術を磨き続けることで、**1人のエンジニアが生み出せる価値を飛躍的に高め、チーム全体の開発効率を最大化する**アプローチを実践しています。
-
-**今後の展望**: この「AI駆動開発」のノウハウをチームに還元し、**エンジニアと生成AIの協業を組織として模索する企業で成長したい**と考えています。
-
-## 🛠️ 技術スタック
-
-### バックエンド・データベース
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### AI・開発ツール
-![Claude](https://img.shields.io/badge/Claude_Code-8E75B2?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+## 🛠️ 学習中の技術スタック
 
 ### フロントエンド
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### クラウド・プラットフォーム
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### バックエンド・データベース
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 開発ツール
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### クラウド・デプロイ
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 📊 GitHub統計
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=dataanalytics2020&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja)
+![GitHub Stats](https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja)
 
-![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=dataanalytics2020&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
+![Top Languages](https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja)
 
-<sub>※ 全期間の累積データです。最近は TypeScript × Next.js × Supabase × Vercel で開発中 🚀</sub>
+<sub>※ 学習中の記録です。毎日少しずつ成長中 🚀</sub>
 
 </div>
 
@@ -108,7 +83,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dataanalytics2020&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rin5uron&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,81 +91,55 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dataanalytics2020&theme=onedark&hide_border=true&locale=ja)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja)](https://git.io/streak-stats)
 
 </div>
 
-## 🌟 個人開発プロジェクト・実績
+## 🌟 学習プロジェクト詳細
 
-> 📌 **個人開発の詳細は[ピン留めされているリポジトリ](https://github.com/dataanalytics2020/slomap-ai-portfolio)からご覧ください**
+> 📌 **学習の詳細は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)からご覧ください**
 
-### 🚀 [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
-> Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム（**Google AdSense収益化達成**）
-> **Pythonバックエンド**でデータパイプライン・スクレイピング基盤を構築
-
-<div align="center">
-
-![スロマップAI - トップ画面](./images/top_screen.png)
-
-<sub>トップ画面 - Next.js 15 + Supabase で構築</sub>
-
-![スロマップAI - マップ表示](./images/map_image.png)
-
-<sub>マップ表示 - 店舗検索・フィルタリング機能</sub>
-
-</div>
-
-**技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Python, Tailwind CSS
+### 🎯 [IT用語実践学習サイト](https://github.com/rin5uron/it-terms-lab)
+> IT用語を実践的に学び、体験デモ付きの学習サイトを構築。**最終目標**: 基本情報技術者試験の取得
 
 **主な成果**:
-- 🎯 **Lighthouse Score**: 95+/100（モバイル・デスクトップ）
-- 📈 **LCP改善**: 68%高速化（3.8秒 → 1.2秒）
-- 🗄️ **データベース最適化**: 99%クエリ速度向上（5,200ms → 50ms）
-- 🔍 **SEO対策**: Google Search Console インデックス登録率98.7%、構造化データ実装
-- ✨ **コード品質**: TypeScript strict mode、ESLintエラー0件
+- 🛡️ フールプルーフ体験ページ①・②
+- 🔒 SQLインジェクション・XSS体験ページ
+- 🔢 n進数と基数変換学習ページ
+- ⚡ シフト演算学習ページ
 
-**技術的ハイライト**:
-- **Claude Code**を活用した開発効率化（92%時間削減を実現）
-- Server Components + ISR でキャッシュヒット率92%達成
-- Row Level Security (RLS) によるデータベース保護
-- N+1問題解消（93%削減）
-- Supabaseスキーマからの自動TypeScript型生成
-- AI Agent開発による自動化（Slug品質管理、エラー分析等）
+**技術スタック**: HTML, CSS, JavaScript
+
+**学習の特徴**:
+- 🎯 **実践重視**: 理論だけでなく実際に体験できるデモを提供
+- 📚 **体系的学習**: 基本情報技術者試験の範囲を網羅
+- 🔍 **理解促進**: 視覚的で分かりやすい説明を心がけ
 
 ---
 
-### 💼 実務での主な実績（2016-2024 | 株式会社ZIZAI）
+### 💼 学習の目標・展望
 
-#### 🤖 AI・自動化開発
-- **AWS Bedrock API開発**（Django実装、RAGチャットボット構築）
-- **業務効率化ツール開発**: 年間3000時間削減（RPA、自動画像生成、記事作成自動化）
-- **REST API開発**（Lambda + API Gateway、画像生成機能）
+#### 🎓 短期目標（3ヶ月以内）
+- 基本情報技術者試験の合格
+- JavaScript基礎の完全習得
+- Next.jsでの簡単なWebアプリケーション作成
 
-#### 📊 データ分析・DB設計
-- **大規模データ分析**: 1000万行以上のデータ集計・加工・分析
-- **レコメンド機能開発**: 7000万レコードのDB設計、記述統計によるルールベースアルゴリズム（PoCまで）
-- **Webスクレイピング専門**: Selenium/BeautifulSoup/Appiumを駆使した複雑なデータ収集
-  - 動的サイト、SPA、ネイティブアプリ（4サイト+アプリからのデータ収集実績）
-  - 認証突破、CAPTCHA回避、アンチボット対策など高度なスクレイピング技術
+#### 🚀 中期目標（6ヶ月以内）
+- フルスタックWebアプリケーションの作成
+- データベース設計の基礎習得
+- セキュリティの基本知識習得
 
-#### 📈 プロダクトグロース実績
-- **YouTube運営**: 登録者数0→168万人に成長（パチンコ業界No.1メディアに育成）
-  - エンジニア転向前: 動画ディレクターとして0からチャンネル立ち上げ
-  - エンジニア転向後: Python自動化ツールでさらに成長加速
-- **[個人ブログ運営](https://slotana777.com)**: 月間20万PVのメディア運営
-  - エンジニア1年目でPython自動記事更新プログラムを開発
-  - Selenium + WordPress API による記事作成・投稿の完全自動化
-  - SEO最適化、コンテンツ戦略で安定したトラフィック獲得
-- **SNSマーケティング**: Twitter自動化ツール開発（30人の手作業を完全自動化）
+#### 🌟 長期目標（1年以内）
+- 実用的なWebアプリケーションのリリース
+- オープンソースプロジェクトへの貢献
+- エンジニアとしての就職・転職
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-slo--map.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slo-map.com)
+![Profile Views](https://komarev.com/ghpvc/?username=rin5uron&color=blueviolet&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dataanalytics2020&color=blueviolet&style=flat-square)
-
-*「怠惰を求めて勤勉に行き着く」― 勝負師伝説 哲也*
+*「千里の道も一歩から」― 毎日少しずつでも成長を続けます！*
 
 </div>
