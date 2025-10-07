@@ -111,11 +111,19 @@
 
 </div>
 
-## 🌟 注目プロジェクト・実績
+## 🌟 個人開発プロジェクト・実績
 
 ### 🚀 [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
 > Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム（**Google AdSense収益化達成**）
 > **Pythonバックエンド**でデータパイプライン・スクレイピング基盤を構築
+
+<div align="center">
+
+![スロマップAI - デスクトップ表示](https://raw.githubusercontent.com/dataanalytics2020/slomap-ai-portfolio/main/SCREENSHOTS/desktop-view.png)
+
+<sub>デスクトップ表示 - Glassmorphismデザインシステム採用</sub>
+
+</div>
 
 **技術スタック**: Next.js 15, React 19, TypeScript, Supabase, Python, Tailwind CSS
 
