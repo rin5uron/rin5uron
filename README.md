@@ -159,6 +159,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dataanalytics2020&color=blueviolet&style=flat-square)
 
-*「迷ったら困難な道を選ぶ」― 岡本太郎*
+*「怠惰を求めて勤勉に行き着く」― 勝負師伝説 哲也*
 
 </div>
