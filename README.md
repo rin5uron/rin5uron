@@ -36,6 +36,7 @@
 ### 使用中のMCP (Model Context Protocol)
 - **Chrome DevTools MCP**: ブラウザ自動操作、スクリーンショット取得
 - **Serena MCP**: コードベース解析、シンボル検索、リファクタリング支援
+- **Supabase MCP**: データベース操作、スキーマ管理、クエリ実行
 - **IDE MCP**: VS Code統合、診断情報取得
 
 ### AI駆動開発の実績
