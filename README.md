@@ -122,7 +122,7 @@
 
 ## 🌟 個人開発プロジェクト・実績
 
-> 📌 **個人開発の詳細は[ピン留めされているリポジトリ](https://github.com/dataanalytics2020?tab=repositories)からご覧ください**
+> 📌 **個人開発の詳細は[ピン留めされているリポジトリ](https://github.com/dataanalytics2020/slomap-ai-portfolio)からご覧ください**
 
 ### 🚀 [スロマップAI](https://slo-map.com) | [ポートフォリオ](https://github.com/dataanalytics2020/slomap-ai-portfolio)
 > Next.js + Supabase で構築したパチンコ・スロット店舗情報プラットフォーム（**Google AdSense収益化達成**）
