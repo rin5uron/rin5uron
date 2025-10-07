@@ -2,11 +2,11 @@
 
 # ABOUT ME
 
-> **表の顔は果物 🍎 とハーブ🌿をこよなく愛する栄養士。<br>裏の顔はプログラミング学習を通して日々成長を楽しむ見習いエンジニア🚀**<br><br>
-> **趣味：資格取得 📚 　得意なこと：のんびりすること♨️**
+> **プログラミング学習を通して、日々成長を楽しむ見習いエンジニア🚀<br>またの顔は果物 🍎 とハーブ🌿をこよなく愛する栄養士。**<br><br>
+> **趣味　　　：資格取得 📚 　<br>得意なこと：のんびりすること♨️**
 
-- **プログラミング学習**: 2025年3月から本格的に開始、現在学習中
-- **資格取得**: 管理栄養士、色彩検定1級、食生活アドバイザー、スパイスハーブ検定、FP2級、ITパスポート
+- **プログラミング学習**： 2025年3月から本格的に開始、現在学習中
+- **資格**　　　　　　　： 管理栄養士、色彩検定1級、食生活アドバイザー、スパイスハーブ検定、FP2級、ITパスポート
 
 
 <sub><sub>**「プログラミングを通して私の好きやときめきを形にできるエンジニアを目指しています！」**</sub><sub>
@@ -15,44 +15,38 @@
 
 ### 🌱 プログラミング学習中の見習いエンジニアです
 
-**学習歴（2025年3月〜 | 現在進行中）**:
-- **Web開発**: HTML、CSS、JavaScript、Next.jsを学習中
-- **データベース**: SQL基礎、データベース設計を学習中
-- **目標**: 現在は基本情報技術者試験の取得を目指しています
+**学習歴（2025年3月〜 | 現在進行中）**
+- **Web開発**     : HTML、CSS、JavaScript、Next.jsを学習中
+- **IT知識**      : ITパスポート取得済み、現在は基本情報技術者試験取得を目指しています
 
-**制作物案件経験**:
+**制作物案件経験**
 - Webサイト制作やデザイン制作の受注経験あり
 
-**学習スタイル**:
-- **生成AI活用**: 学習計画と目標を定期的に振り返り、それを元に生成AIで教材や学習計画を作成
-- **日々の記録**: ログや振り返りをしながら学習を進め、目指すエンジニア像を[work_log](https://github.com/rin5uron/work_log)で模索中
-- **資格取得目標**: 資格取得を目標にしながらIT知識のあるエンジニアを目指す
-- **実践重視**: 自分の興味や思いつきを大切にし、形にしながら実践的に学ぶ
+**学習スタイル**
+- **日々の記録**: [work_log](https://github.com/rin5uron/work_log)で学習ログ記録や振り返りをしながら、目指すエンジニア像を模索中
+- **生成AI活用**: 教材や学習計画を作成
+- **資格取得**  : 資格取得を目標にしながらIT知識のあるエンジニアを目指す
+- **実践重視**  : 興味や思いつきを大切にし、形にしながら実践的に学ぶ
 <br><br><br>
 ---
 
-## 🌟 現在のメインプロジェクト
+## 🌟 現在のプロジェクト
 
-### 📚 [IT用語辞典](https://itwords.jp) | [GitHub](https://github.com/rin5uron/it-terms-lab)
+### 📚 [IT用語辞典](https://itwords.jp) 
 > IT用語を実践的に学ぶ体験デモ付き学習サイト。基本情報技術者試験対策も兼ねた総合学習プラットフォーム
 
-**🌐 サイトURL**: [https://itwords.jp](https://itwords.jp)  
+**🌐 サイトURL**  : [https://itwords.jp](https://itwords.jp)  
 **📂 ソースコード**: [GitHub](https://github.com/rin5uron/it-terms-lab)
 
-**サイト運営を通じた実践学習**:
+**サイト運営を通じた実践学習**
 - **SEO対策**: 検索エンジン最適化、キーワード戦略、コンテンツマーケティング
 - **セキュリティ**: SSL証明書、セキュリティヘッダー、脆弱性対策
 - **Webデザイン**: ユーザビリティ、アクセシビリティ、UI/UX設計
 - **レスポンシブデザイン**: モバイルファースト、ブレークポイント設計
 - **パフォーマンス最適化**: 画像最適化、キャッシュ戦略、読み込み速度改善
 
-**主な機能**:
-- 🛡️ フールプルーフ体験ページ
-- 🔒 SQLインジェクション・XSS体験ページ  
-- 🔢 n進数と基数変換学習ページ
-- ⚡ シフト演算学習ページ
 
-**技術スタック**: HTML, CSS, JavaScript
+
 
 <br><br><br>
 
@@ -67,16 +61,16 @@
 
 ## 📚 学習記録
 
-> 📌 **詳細な学習記録は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)で公開中！**  
-> 📝 **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中！**
+> 📌 **詳細な学習記録は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)にて公開**  
+> 📝 **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中**
 
 **学習内容**:
-- **JavaScript体系学習**: 基礎からオブジェクト指向プログラミングまで
-- **Next.js学習**: モダンなWebアプリケーション開発
-- **CLI操作**: コマンドライン操作と脱マウス実践
-- **SEO実践**: Webサイトの検索エンジン最適化
-- **データベース学習**: SQL実践とデータベース設計
-- **セキュリティ学習**: 基本的なセキュリティ対策
+- **JavaScript体系学習**: 基礎からオブジェクト指向プログラミングまで → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
+- **Next.js学習**: モダンなWebアプリケーション開発 → [nextjs_practice](https://github.com/rin5uron/nextjs_practice)
+- **CLI操作**: コマンドライン操作と脱マウス実践 → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
+- **SEO実践**: Webサイトの検索エンジン最適化 → [itwords.jp](https://itwords.jp)
+- **データベース学習**: SQL実践とデータベース設計 → [study_web2/dev_url_projects.md](https://github.com/rin5uron/study_web2/blob/main/note/dev/dev_url_projects.md)
+- **セキュリティ学習**: 基本的なセキュリティ対策 → [it-terms-lab](https://github.com/rin5uron/it-terms-lab)
 
 <br><br><br>
 
@@ -127,9 +121,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" />
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" height="195" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" height="195" />
 
 
 
@@ -153,6 +147,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rin5uron&color=blueviolet&style=flat-square)
 
-*「千里の道も一歩から」― 毎日少しずつでも成長を続けます！*
 
 </div>
