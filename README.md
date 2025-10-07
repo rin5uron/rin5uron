@@ -22,19 +22,21 @@
 
 **学習スタイル**:
 - **生成AI活用**: 生成AIと計画を立てて学習教材を作成
+- **日々の記録**: ログや振り返りをしながら学習を進め、目指すエンジニア像を[日々模索中](https://github.com/rin5uron/work_log)
 - **資格取得目標**: 資格取得を目標にしながらIT知識のあるエンジニアを目指す
 - **実践重視**: 自分の興味や思いつきを大切にし、形にしながら実践的に学ぶ
-- **日々の記録**: ログや振り返りをしながら学習を進め、目指すエンジニア像を[日々模索中](https://github.com/rin5uron/work_log)
 
-## 🌟 メインプロジェクト
+## 🌟 現在のメインプロジェクト
 
-### 📚 [IT用語辞典](https://github.com/rin5uron/it-terms-lab)
+### 📚 [IT用語辞典](https://itwords.jp) | [GitHub](https://github.com/rin5uron/it-terms-lab)
 > IT用語を実践的に学ぶ体験デモ付き学習サイト。基本情報技術者試験対策も兼ねた総合学習プラットフォーム
-**その他のプロジェクト**:
-- **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
-- **[IT用語サイト運営](https://github.com/rin5uron/itwords)**: 学んだIT用語を用いたWebサイト
-- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した学習管理
-- **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
+
+**サイト運営を通じた実践学習**:
+- **SEO対策**: 検索エンジン最適化、キーワード戦略、コンテンツマーケティング
+- **セキュリティ**: SSL証明書、セキュリティヘッダー、脆弱性対策
+- **Webデザイン**: ユーザビリティ、アクセシビリティ、UI/UX設計
+- **レスポンシブデザイン**: モバイルファースト、ブレークポイント設計
+- **パフォーマンス最適化**: 画像最適化、キャッシュ戦略、読み込み速度改善
 
 **主な機能**:
 - 🛡️ フールプルーフ体験ページ
@@ -43,6 +45,13 @@
 - ⚡ シフト演算学習ページ
 
 **技術スタック**: HTML, CSS, JavaScript
+
+
+**その他のプロジェクト**:
+- **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
+- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した学習管理
+- **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
+
 
 ## 📚 学習記録
 
