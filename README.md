@@ -1,6 +1,6 @@
 
 
-## 🚀 自己紹介
+## ABOUT ME
 
 **プログラミング学習 💻 と資格取得 📚 とテニス 🎾 が好きな、日々成長を楽しむ見習いエンジニアです 🚀**
 
@@ -9,7 +9,7 @@
 - **テニス**: 週末は必ずコートで汗を流しています
 
 **「毎日少しずつでも成長して、いつかはプロダクトを作れるエンジニアになりたい！」**
-
+<br><br><br>
 ### 🌱 プログラミング学習中の見習いエンジニアです
 
 **学習歴（2025年3月〜 | 現在進行中）**:
@@ -25,7 +25,7 @@
 - **日々の記録**: ログや振り返りをしながら学習を進め、目指すエンジニア像を[日々模索中](https://github.com/rin5uron/work_log)
 - **資格取得目標**: 資格取得を目標にしながらIT知識のあるエンジニアを目指す
 - **実践重視**: 自分の興味や思いつきを大切にし、形にしながら実践的に学ぶ
-
+<br><br><br>
 ## 🌟 現在のメインプロジェクト
 
 ### 📚 [IT用語辞典](https://itwords.jp) | [GitHub](https://github.com/rin5uron/it-terms-lab)
@@ -72,6 +72,8 @@
 
 ## 🛠️ 学習中の技術スタック
 
+<div align="center">
+
 ### フロントエンド
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -91,14 +93,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+</div>
+
 <br><br><br>
 
 ## 📊 GitHub統計
 
 <div align="center">
 
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="48%" />
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="48%" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" />
 
 <sub>※ 学習中の記録です。毎日少しずつ成長中 🚀</sub>
 
@@ -109,14 +114,6 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔥 連続コミット記録
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja)](https://git.io/streak-stats)
 
 </div>
 
