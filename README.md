@@ -39,7 +39,10 @@
 > IT用語を実践的に学ぶ体験デモ付き学習サイト。基本情報技術者試験対策も兼ねた総合学習プラットフォーム
 
 **🌐 サイトURL**  : [https://itwords.jp](https://itwords.jp)  
-**📂 ソースコード**: [GitHub](https://github.com/rin5uron/it-terms-lab)
+**📂 ソースコード**: [GitHub](https://github.com/rin5uron/it-terms-lab)  
+**📄 記事例**     : [SSHとは？](https://itwords.jp/terms/ssh)（遠隔ログイン・暗号化の仕組み）／[ゼロデイ攻撃とは？](https://itwords.jp/terms/zero-day)（攻撃者の視点で体験）
+
+> 自分の学びや気づきをまとめつつ、世のニーズ（検索されやすい用語・わかりにくい概念）を考え、体験デモ付きのページとして昇華させています。
 
 **サイト運営を通じた実践学習**
 - **SEO対策**: 検索エンジン最適化、キーワード戦略、コンテンツマーケティング
@@ -56,6 +59,18 @@
 > 音を慈しむ、声を愛する音楽ブログ。お気に入りの楽曲やアーティストについて綴っています。
 
 **🌐 サイトURL**  : [https://sound-feels.com/](https://sound-feels.com/)  
+**📄 記事例**     : [ガガのライブレポ（The MAYHEM Ball東京公演）](https://sound-feels.com/posts/mayhem-ball-tour-tokyo-report)  
+> まだβ版です。サイトの拡充とアドセンスの本格的収益も視野に入れ開発中です。
+
+<br>
+
+**2つのサイトを通じて学んだこと**
+
+| 観点 | [IT用語辞典](https://itwords.jp) | [How Sound Feels](https://sound-feels.com/) |
+|:---|:---|:---|
+| **きっかけ・目的** | 基本情報技術者試験対策と、IT用語を「体験デモ」で実践的に学ぶため | レディ・ガガのライブ参戦をきっかけに、曲の予習用＋基本情報の勉強ノート代わりとして作成 |
+| **運営で学んだこと** | SEO・セキュリティ・Webデザイン・レスポンシブ・パフォーマンス最適化、アドセンス審査、Search Console・Analytics による分析 | コンテンツ設計、記事執筆（ライブレポ等）、β版からのサイト拡充と改善の進め方 |
+| **収益化・今後の展望** | アドセンス取得済み。審査対策と収益化の実践を経験 | β版。サイト拡充とアドセンスの本格収益化を視野に開発中 |
 
 <br><br><br>
 
@@ -86,7 +101,7 @@
     - [CLIを使いこなせるエンジニアに挑戦中！](https://basiccli.vercel.app/)
 - **SEO実践**
     - Webサイトの検索エンジン最適化
-    - [お気に入りのアイスの魅力を伝えるページを作成！](https://haagen-macadamia-seo.vercel.app/)
+    - [お気に入りのアイスの魅力を伝えるページを作成！](https://haagen-macadamia-seo.vercel.app/)（Xシェア機能は実装済み）
 - **データベース学習**
     - SQL実践とデータベース設計
     - [実際にデータベースを作成して理解を深める](https://github.com/rin5uron/study_web2/tree/main/practice/db)
