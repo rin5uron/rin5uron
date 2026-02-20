@@ -47,16 +47,22 @@
 - **Webデザイン**: ユーザビリティ、アクセシビリティ、UI/UX設計
 - **レスポンシブデザイン**: モバイルファースト、ブレークポイント設計
 - **パフォーマンス最適化**: 画像最適化、キャッシュ戦略、読み込み速度改善
+- **アドセンス取得**: 審査対策と収益化の実践
+- **コンソール・アナリティクス**: Google Search Console・Google Analytics を活用した検索パフォーマンス分析とアクセス解析
 
+<br><br>
 
+### 🎵 [How Sound Feels](https://sound-feels.com/)
+> 音を慈しむ、声を愛する音楽ブログ。お気に入りの楽曲やアーティストについて綴っています。
 
+**🌐 サイトURL**  : [https://sound-feels.com/](https://sound-feels.com/)  
 
 <br><br><br>
 
 **その他のプロジェクト**
-- **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)**: Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
-- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)**: GitHub Issuesを活用した複数人学習システムの構築
-- **[実験プロジェクト](https://github.com/rin5uron/myplayground)**: 思いついたアイデアを気軽に試す実験スペース
+- **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)** `nextjs_practice` — Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
+- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)** `fe-study` — GitHub Issuesを活用した複数人学習システムの構築
+- **[実験プロジェクト](https://github.com/rin5uron/myplayground)** `myplayground` — 思いついたアイデアを気軽に試す実験スペース
 
 <br><br><br>
 
@@ -103,6 +109,8 @@
 | **AI・開発ツール** | ![Claude](https://img.shields.io/badge/Claude-8E75B2?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | **開発ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 | **デザインツール** | ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white) |
+| **CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **分析・収益化** | ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Google AdSense](https://img.shields.io/badge/Google_AdSense-FFCC00?style=for-the-badge&logo=googleads&logoColor=black) |
 | **クラウド・デプロイ** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
@@ -129,7 +137,11 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=8&margin-w=10&margin-h=10" alt="trophy" />
+  </a>
+</p>
 
 </div>
 
