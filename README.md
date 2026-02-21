@@ -66,7 +66,7 @@
 - `JavaScript` — 感情・衝動・愛を数える[カウンターアプリ集](https://counterapp-collection.vercel.app/)を制作
 - `JavaScript` — [オブジェクト](https://20250702osyaberi.vercel.app/)・[クラス](https://objectclass30.vercel.app/) を身近な例で体系学習
 - `Next.js` `TypeScript` — ログイン・Todo・DBを実装する[実践学習](https://github.com/rin5uron/nextjs_practice)
-- `SEO` — 好きなアイスへの愛を込めたページを作成 → [Xシェアまで実装](https://haagen-macadamia-seo.vercel.app/)
+- `SEO` `OGP` `Twitter Card` — 好きなアイスのページを制作 → [シェアで画像カード表示まで実装](https://haagen-macadamia-seo.vercel.app/)
 - `SQL` — 実際にDBを設計・構築して[データベース学習](https://github.com/rin5uron/study_web2/tree/main/practice/db)
 - `CLI` — 脱マウスに挑戦 → [CLIを使いこなすエンジニアへ](https://basiccli.vercel.app/)
 - `Security` — Supabase認証で[ログイン機能を実装](https://nextjs-practice.vercel.app/signin)
