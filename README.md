@@ -100,11 +100,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rin5uron&theme=onedark&hide_border=true&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
-<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="32%" height="195" style="vertical-align:bottom;" />
-
-
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api?username=rin5uron&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&locale=ja" width="48%" />
+<img src="https://github-readme-stats-three-pearl-83.vercel.app/api/top-langs/?username=rin5uron&layout=compact&theme=onedark&hide_border=true&langs_count=8&locale=ja" width="48%" />
 
 </div>
 
