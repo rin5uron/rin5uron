@@ -1,113 +1,75 @@
 
 
 # ABOUT ME
-
-> **プログラミング学習を通して、日々成長を楽しむ見習いエンジニア🚀<br>またの顔は果物 🍎 とハーブ🌿をこよなく愛する栄養士。**<br><br>
-> **趣味　　　：資格取得 📚 　<br>得意なこと：のんびりすること♨️**
-
-- **プログラミング学習**<br>
-： 2025年3月から本格的に開始、現在学習中
-- **資格**<br>： 管理栄養士、食生活アドバイザー、スパイスハーブ検定<br>： 色彩検定1級、FP2級、ITパスポート
-
----
-<sub>**「プログラミングを通して私の好きやときめきを形にできるエンジニアを目指しています！」**</sub>
+<sub>**世の中の言語化できていない想いや、まだ誰かの中に眠っているワクワクを形にできるエンジニアを目指しています！**</sub>
 <br><br><br>
 -
+> **自分の好きやときめきを、プログラミングを通して形にすることが好き。<br>エンジニアとして実践を積みながら成長中です🚀<br><br>またの顔は果物 🍎 とハーブ🌿をこよなく愛する管理栄養士。**<br><br>
+> **趣味は資格取得 📚 とお風呂に入ること♨️**
 
-### 🌱 プログラミング学習中の見習いエンジニアです
+### 🌱 学習歴・スキル
 
-**学習歴（2025年3月〜 | 現在進行中）**
-- **Web開発**     : HTML、CSS、JavaScript、Next.jsを学習中
-- **IT知識**      : ITパスポート取得済み、現在は基本情報技術者試験取得を目指しています
-<br>
+**🖥️ Web / IT（2025年3月〜 | 独学・進行中）**
+- HTML、CSS、JavaScript、Next.js
+- ITパスポート取得済み → 現在、基本情報技術者試験を準備中
 
-**制作物案件経験**
-- Webサイト制作やデザイン制作の受注経験あり
-<br>
+**📜 資格**
+管理栄養士 / 食生活アドバイザー / スパイスハーブ検定
+色彩検定1級 / FP2級 / ITパスポート
 
-**学習スタイル**
-- **日々の記録**: [work_log](https://github.com/rin5uron/work_log)で学習ログ記録や振り返りをしながら、目指すエンジニア像を模索中
-- **生成AI活用**: 教材や学習計画を作成
-- **資格取得**  : 資格取得を目標にしながらIT知識のあるエンジニアを目指す
-- **実践重視**  : 興味や思いつきを大切にし、形にしながら実践的に学ぶ
-<br><br><br><br>
+**🔍 学習スタイル**
+- 興味や思いつきを形にしながら、実践的に学ぶ
+- 生成AIを活用して教材・学習計画を自作
+- [daily log](https://github.com/rin5uron/work_log) で振り返りと成長を記録中
+
+<br><br>
 ---
 
 ## 🌟 現在のプロジェクト
 
-### 📚 [IT用語辞典](https://itwords.jp) 
-> IT用語を実践的に学ぶ体験デモ付き学習サイト。基本情報技術者試験対策も兼ねた総合学習プラットフォーム
+### 📚 [IT用語辞典](https://itwords.jp)
+> IT用語を体験デモ付きでわかりやすく解説する学習サイト。
+> 基本情報技術者試験対策も兼ねた実践型プラットフォーム。
 
-**🌐 サイトURL**  : [https://itwords.jp](https://itwords.jp)  
-**📂 ソースコード**: [GitHub](https://github.com/rin5uron/it-terms-lab)  
-**📄 記事例**     : [SSHとは？](https://itwords.jp/terms/ssh)（遠隔ログイン・暗号化の仕組み）／[ゼロデイ攻撃とは？](https://itwords.jp/terms/zero-day)（攻撃者の視点で体験）
+🌐 [itwords.jp](https://itwords.jp) ／ 📂 [ソースコード](https://github.com/rin5uron/it-terms-lab)  
+📄 [SSH](https://itwords.jp/terms/ssh) ／ [ゼロデイ攻撃](https://itwords.jp/terms/zero-day)（体験デモ付き）
 
-> 自分の学びや気づきをまとめつつ、世のニーズ（検索されやすい用語・わかりにくい概念）を考え、体験デモ付きのページとして昇華させています。
+🛠️ `Next.js` `TypeScript` `SEO` `Google Analytics` `Search Console` `AdSense` `Vercel`
 
-**サイト運営を通じた実践学習**
-- **SEO対策**: 検索エンジン最適化、キーワード戦略、コンテンツマーケティング
-- **セキュリティ**: SSL証明書、セキュリティヘッダー、脆弱性対策
-- **Webデザイン**: ユーザビリティ、アクセシビリティ、UI/UX設計
-- **レスポンシブデザイン**: モバイルファースト、ブレークポイント設計
-- **パフォーマンス最適化**: 画像最適化、キャッシュ戦略、読み込み速度改善
-- **アドセンス取得**: 審査対策と収益化の実践
-- **コンソール・アナリティクス**: Google Search Console・Google Analytics を活用した検索パフォーマンス分析とアクセス解析
-
-<br><br>
+---
 
 ### 🎵 [How Sound Feels](https://sound-feels.com/)
-> 音を慈しむ、声を愛する音楽ブログ。お気に入りの楽曲やアーティストについて綴っています。
+> 好きな音楽を深掘りする音楽ブログ。ライブレポや歌詞解説を通じてコンテンツ制作を実践中。（β版・拡充中）
 
-**🌐 サイトURL**  : [https://sound-feels.com/](https://sound-feels.com/)  
-**📄 記事例**     : [ガガのライブレポ（The MAYHEM Ball東京公演）](https://sound-feels.com/posts/mayhem-ball-tour-tokyo-report)  
-> まだβ版です。サイトの拡充とアドセンスの本格的収益も視野に入れ開発中です。
+🌐 [sound-feels.com](https://sound-feels.com/)  
+📄 [ガガ東京公演レポ](https://sound-feels.com/posts/mayhem-ball-tour-tokyo-report) ／ [Bloody Mary 歌詞解説](https://sound-feels.com/posts/bloody-mary)
 
-<br>
+🛠️ `WordPress` `SEO` `コンテンツ設計` `AdSense（導入準備中）`
 
-**2つのサイトを通じて学んだこと**
-
-| 観点 | [IT用語辞典](https://itwords.jp) | [How Sound Feels](https://sound-feels.com/) |
-|:---|:---|:---|
-| **きっかけ・目的** | 基本情報技術者試験対策と、IT用語を「体験デモ」で実践的に学ぶため | レディ・ガガのライブ参戦をきっかけに、曲の予習用＋基本情報の勉強ノート代わりとして作成 |
-| **運営で学んだこと** | SEO・セキュリティ・Webデザイン・レスポンシブ・パフォーマンス最適化、アドセンス審査、Search Console・Analytics による分析 | コンテンツ設計、記事執筆（ライブレポ等）、β版からのサイト拡充と改善の進め方 |
-| **収益化・今後の展望** | アドセンス取得済み。審査対策と収益化の実践を経験 | β版。サイト拡充とアドセンスの本格収益化を視野に開発中 |
-
-<br><br><br>
+---
 
 **その他のプロジェクト**
-- **[Next.js学習プロジェクト](https://github.com/rin5uron/nextjs_practice)** `nextjs_practice` — Next.jsを基礎から実践まで学ぶ学習記録（TypeScript、Supabase認証、Todoアプリ等）
-- **[基本情報技術者試験学習](https://github.com/rin5uron/fe-study)** `fe-study` — GitHub Issuesを活用した複数人学習システムの構築
-- **[実験プロジェクト](https://github.com/rin5uron/myplayground)** `myplayground` — 思いついたアイデアを気軽に試す実験スペース
 
-<br><br><br>
+- **[nextjs_practice](https://github.com/rin5uron/nextjs_practice)** — TypeScript・Supabase認証・Todoアプリなど実践記録
+- **[fe-study](https://github.com/rin5uron/fe-study)** — 基本情報技術者試験をGitHub Issuesで学ぶ
+- **[myplayground](https://github.com/rin5uron/myplayground)** — アイデアを気軽に試す実験スペース
+
+<br><br>
 
 ---
 
 ## 📚 学習記録
 
-> **詳細な学習記録は[study_web2リポジトリ](https://github.com/rin5uron/study_web2)にて公開**  
-> **日々の学習ログ・振り返り・目標管理は[work_logリポジトリ](https://github.com/rin5uron/work_log)で管理中**
+> 詳細は [study_web2](https://github.com/rin5uron/study_web2) ／ 日々のログは [work_log](https://github.com/rin5uron/work_log)
 
-**学習内容**（学習成果は一部抜粋）
-- **JavaScript体系学習**
-    -  基礎からオブジェクト指向プログラミングまで 
-    - [身の回りのものをオブジェクトとして認識する](https://20250702osyaberi.vercel.app/)
-    - [身近な例でクラス＆インスタンスを考える](https://objectclass30.vercel.app/)
-- **Next.js学習**
-    - 実務での開発を見据えた学習
-    - [nextjs_practice](https://github.com/rin5uron/nextjs_practice)
-- **CLI操作**
-    - コマンドライン操作と脱マウス実践
-    - [CLIを使いこなせるエンジニアに挑戦中！](https://basiccli.vercel.app/)
-- **SEO実践**
-    - Webサイトの検索エンジン最適化
-    - [お気に入りのアイスの魅力を伝えるページを作成！](https://haagen-macadamia-seo.vercel.app/)（Xシェア機能は実装済み）
-- **データベース学習**
-    - SQL実践とデータベース設計
-    - [実際にデータベースを作成して理解を深める](https://github.com/rin5uron/study_web2/tree/main/practice/db)
-- **セキュリティ学習**
-    - 基本的なセキュリティ対策
-    - [ログイン機能実装](https://nextjs-practice.vercel.app/signin)
+- `JavaScript` — [iPhoneの電卓を自力で再現](https://ios-style-calculator-zeta.vercel.app/)（UI設計・DOM操作を体感）
+- `JavaScript` — 感情・衝動・愛を数える[カウンターアプリ集](https://counterapp-collection.vercel.app/)を制作
+- `JavaScript` — [オブジェクト](https://20250702osyaberi.vercel.app/)・[クラス](https://objectclass30.vercel.app/) を身近な例で体系学習
+- `Next.js` `TypeScript` — ログイン・Todo・DBを実装する[実践学習](https://github.com/rin5uron/nextjs_practice)
+- `SEO` — 好きなアイスへの愛を込めたページを作成 → [Xシェアまで実装](https://haagen-macadamia-seo.vercel.app/)
+- `SQL` — 実際にDBを設計・構築して[データベース学習](https://github.com/rin5uron/study_web2/tree/main/practice/db)
+- `CLI` — 脱マウスに挑戦 → [CLIを使いこなすエンジニアへ](https://basiccli.vercel.app/)
+- `Security` — Supabase認証で[ログイン機能を実装](https://nextjs-practice.vercel.app/signin)
 
 <br><br><br>
 
@@ -147,20 +109,6 @@
 </div>
 
 ---
-
-## 🏆 GitHubトロフィー
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rin5uron&theme=radical&no-frame=true&column=8&margin-w=10&margin-h=10" alt="trophy" />
-  </a>
-</p>
-
-</div>
-
-<br><br><br>
 
 ---
 
