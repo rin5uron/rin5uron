@@ -44,7 +44,8 @@
 🌐 [sound-feels.com](https://sound-feels.com/)  
 📄 [ガガ東京公演レポ](https://sound-feels.com/posts/mayhem-ball-tour-tokyo-report) ／ [Bloody Mary 歌詞解説](https://sound-feels.com/posts/bloody-mary)
 
-🛠️ `WordPress` `SEO` `コンテンツ設計` `AdSense（導入準備中）`
+🛠️ `Next.js` `TypeScript` `SEO` `Google Analytics` `Search Console` `AdSense` `Vercel`
+
 
 ---
 
